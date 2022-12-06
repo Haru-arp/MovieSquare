@@ -1,6 +1,6 @@
 
 
-# SSAFY_ 7기 1학기 Final PJT - Movie Square-
+
 
 
 
